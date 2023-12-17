@@ -1,0 +1,2 @@
+La comparacón dentre el conect4 con el minimax con poda y sin poda, donde se veía la demora cuando no tenia poda, ya que recorria el arbol completo, en cambio con poda el juego daba una respuesta mas rápida que el sin, para el taller también decidí en hacer metodo para la ia, el minimax, para el momento del juego y así con las acciones dentro del juego, como imprimir el tablero, despues eso lo pasamos al main llamando los metodos.
+Los métodos para guardar archivos y cargar pude implementarlos, pero sin éxito, pero están los metodos, ahí se me complicó.
